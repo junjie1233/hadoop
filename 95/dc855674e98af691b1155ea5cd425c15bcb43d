@@ -1,0 +1,29 @@
+hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/TestSlowDiskBlockLocations.java
+  s_173812265248ea::t_94b0cfd3df78e9 1-536
+hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/DFSConfigKeys.java
+  s_173812265248ea::t_94b0cfd3df78e9 590-597
+hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode/FSNamesystem.java
+  s_173812265248ea::t_94b0cfd3df78e9 101-102,126,517,920-923,2320-2325,2329-2416
+hadoop-hdfs-project/hadoop-hdfs/src/main/resources/hdfs-default.xml
+  s_173812265248ea::t_94b0cfd3df78e9 2414-2435
+hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/blockmanagement/SlowDiskTracker.java
+  s_173812265248ea::t_94b0cfd3df78e9 40-41,85,88,90,100-110,121,131-144,174-224,231-233,254-299,345-354,410-418,437,442,447
+hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/datanode/metrics/DataNodeDiskMetrics.java
+  s_173812265248ea::t_94b0cfd3df78e9 125-126,163-169
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "95dc855674e98af691b1155ea5cd425c15bcb43d",
+  "prompts": {},
+  "sessions": {
+    "s_173812265248ea": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e4334ada-d8f4-4f44-8e83-2b68d21e048c",
+        "model": "glm-5.2"
+      },
+      "human_author": "junjie2.zhao <junjie2.zhao@ly.com>"
+    }
+  }
+}
